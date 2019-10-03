@@ -9,7 +9,7 @@
             <directory>src/main/external-resources</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
-                <include>index.html</include>
+                <include>**/*</include>
             </includes>
         </fileSet>
     </fileSets>
